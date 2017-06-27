@@ -1,8 +1,14 @@
-<html>
-  <head>
-  </head>
-  <body>
-  <h2>Test 123</h2>
-  Das ist ein Test 1111 2222
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Mein erster Git Test auf GitHub</title>
+</head>
+<body>
+  <h1>Das ist mein GitHub Test</h1>
+  <p>Test</p>
+
+</body>
 </html>
